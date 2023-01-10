@@ -1,0 +1,8 @@
+a=float(input("enter the no of fresh breads"))
+b=float(input("enter the no of old breads"))
+print("regular price is 185")
+c=a*185
+d=b*74
+print("amount of fresh breads",c)
+print("amount of 1 day old breads=",d)
+print("discount amount is",c+d)
